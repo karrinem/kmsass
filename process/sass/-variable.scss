@@ -1,0 +1,30 @@
+/* Colour Variables */
+
+$offWhite: #EEE8D6;
+$darkBlue: #022933;
+$yellow: #ffba00;
+$blue: #0076a3;
+$green: #548c27;
+$orange: #F39856;
+$red: #d14348;
+$purple: #6d73c2;
+
+/* Colours for Sections  */
+$color-main: $darkBlue;
+$color-backgrounds: $offWhite;
+$colour-headlines: $red;
+
+/* Import Fonts   */
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Josefin+Slab|Merriweather|Oswald|Roboto+Slab');
+
+/*
+font-family: 'Roboto Slab', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Bree Serif', serif;
+font-family: 'Josefin Slab', serif;
+font-family: 'Merriweather', serif;
+*/
+
+/* Font Variables */
+$font-main: 'Merriweather', Helvetica, serif;
+$font-highlight: 'Bree Serif', Helvetica, serif;
